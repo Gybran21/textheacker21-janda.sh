@@ -1,0 +1,1 @@
+# textheacker21-janda.sh
